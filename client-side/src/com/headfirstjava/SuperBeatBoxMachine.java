@@ -764,14 +764,14 @@ public class SuperBeatBoxMachine {
         - monitora o segmento de entrada "in" e atualiza o JList com as mensagens que chegam do servidor */
     private class RemoteReader implements Runnable {
         public void run() {
-            String message = null;			//armazena o primeiro objeto lido
-            boolean[] checkBoxState = null;	//armazena o segundo objeto lido
-            Object aux = null;				//objeto auxiliar
+            String message = null;          //armazena o primeiro objeto lido
+            boolean[] checkBoxState = null; //armazena o segundo objeto lido
+            Object aux = null;              //objeto auxiliar
             
             try {
                 
                 //lê dados vindos do servidor 
-                while ( (aux = in.readObject() ) != null) {	//lê o primeiro objeto vindo do servidor				
+                while ( (aux = in.readObject() ) != null) { //lê o primeiro objeto vindo do servidor				
                     String[] messageReceived = (String[]) aux; //converte objeto lido em array de Strings
                     
                     /* constrói a string que será impressa na Jlist e utilizada como chave do HashMap 
