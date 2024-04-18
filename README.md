@@ -42,7 +42,7 @@ Executar a Super BeatBox Machine em sua máquina é muito fácil:
 4. Execute-a como **Java Aplication**
 5. Efetue duplo clique nos arquivos executáveis — primeiro no servidor, depois no cliente.
 
-<a href="/server-side/MusicServer.jar" download>Download MusicServer.jar</a><br>
+<a href="server-side/MusicServer.jar" download>Download MusicServer.jar</a><br>
 
 
  
