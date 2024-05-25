@@ -23,7 +23,7 @@ www.togtec.com.br/projetos/super-beatbox-machine/resumo.php
 <img src="doc/img/img-009-super-beatbox-machine-bass-drum.jpg" alt="Super BeatBox Machine">
 
 Ver galeria completa de imagens em: <br>
-www.togtec.dev.br/projetos/super-beatbox-machine/imagens.php
+www.togtec.com.br/projetos/super-beatbox-machine/imagens.php
 
 ## Funcionalidades
 1. Usuário cria um padrão de batidas.
