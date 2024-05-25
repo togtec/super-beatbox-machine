@@ -7,7 +7,7 @@ A Super BeatBox Machine é uma aplicação cliente-servidor que disponibiliza um
 
 A Super BeatBox Machine é um desafio de programação que não utiliza IDE — foi construída no Notepad++ e compilada no prompt de comando da console. O projeto utiliza um conjunto de tecnologias complexas de difícil compreensão e domínio, entre elas: **Biblioteca Java Swing, GridLayout, GridBagLayout, JFrame, JPanel, PlainDocument, File, JFileChooser, API Java Sound, Sequencer, MidiEvent, Serialização de Objetos em Disco, Serialização de Objetos em Rede, Socket, ServerSocket, Segmentação Múltipla, Classe Interna e Mapeamento de Teclas**.
 
-A Super BeatBox Machine surge a partir do projeto intitulado BeatBox — desenvolvido ao longo do livro Use a cabeça! Java, de Kathy Sierra e Bert Bates. O projeto do livro foi sistematicamente transformado e incrementado com novos recursos até se tornar a Super BeatBox Machine. <br>
+A Super BeatBox Machine tem como base o projeto intitulado BeatBox — desenvolvido ao longo do livro Use a cabeça! Java, de Kathy Sierra e Bert Bates. O projeto do livro foi sistematicamente transformado e incrementado com novos recursos até transformar-se em Super BeatBox Machine. <br>
 
 Para maiores informações, visite a página oficial do projeto: <br>
 www.togtec.com.br/projetos/super-beatbox-machine/resumo.php
