@@ -10,7 +10,7 @@ A Super BeatBox Machine é um desafio de programação que não utiliza IDE — 
 A Super BeatBox Machine surge a partir do projeto intitulado BeatBox — desenvolvido ao longo do livro Use a cabeça! Java, de Kathy Sierra e Bert Bates. O projeto do livro foi sistematicamente transformado e incrementado com novos recursos até se tornar a Super BeatBox Machine. <br>
 
 Para maiores informações, visite a página oficial do projeto: <br>
-<https://togtec.dev.br/projetos/super-beatbox-machine/resumo.php>
+www.togtec.com.br/projetos/super-beatbox-machine/resumo.php
 
 ## Tecnologias
   * Java SE (17)
@@ -23,7 +23,7 @@ Para maiores informações, visite a página oficial do projeto: <br>
 <img src="doc/img/img-009-super-beatbox-machine-bass-drum.jpg" alt="Super BeatBox Machine">
 
 Ver galeria completa de imagens em: <br>
-<https://togtec.dev.br/projetos/super-beatbox-machine/imagens.php>
+www.togtec.dev.br/projetos/super-beatbox-machine/imagens.php
 
 ## Funcionalidades
 1. Usuário cria um padrão de batidas.
@@ -34,15 +34,7 @@ Ver galeria completa de imagens em: <br>
 6. Usuário salva em disco o padrão recebido.
 
 ## Executando o código localmente
-Executar a Super BeatBox Machine em sua máquina é muito fácil: 
-
-1. Certifique-se de ter o Java 17 instalado.
-2. Faça o download.
-3. Descompacte a pasta de exemplos (*opcional).
-4. Execute-a como **Java Aplication**
-5. Efetue duplo clique nos arquivos executáveis — primeiro no servidor, depois no cliente.
-
-<a href="server-side/MusicServer.jar" download>Download MusicServer.jar</a><br>
-
+Visite a página de download do projeto em: <br>
+www.togtec.com.br/projetos/super-beatbox-machine/download.php
 
  
