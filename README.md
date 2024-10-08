@@ -74,7 +74,7 @@ For more details, visit the official project page: <br>
 <center>
 <img src="doc/img/img-009-super-beatbox-machine-bass-drum.jpg" alt="Super BeatBox Machine">
 
-Ver galeria completa de imagens em: <br>
+See the full image gallery at: <br>
 <https://en.togtec.com.br/projects/super-beatbox-machine/images.php>
 
 ### Features
