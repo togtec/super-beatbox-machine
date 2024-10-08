@@ -53,5 +53,38 @@ Visite a página de download e instalação do projeto em: <br>
 ## <img src="https://github.com/togtec/togtec/blob/main/img/en-us.png" alt="EN-US" /> English Version
 
 ### Super BeatBox Machine - Overview
+The **Super BeatBox Machine** is a **transformation project** created to consolidate the knowledge acquired in Java SE. The application allows users to create and play musical patterns made with percussion instrument beats. You can choose from 16 different instrument sounds.
 
- 
+The Super BeatBox Machine is a client-server application that provides an innovative chat system. It allows users to send musical patterns over the network to others connected to the server. Additionally, users can save a musical pattern to disk, with the option to reload, modify, and resend it via chat at a later time.
+
+The Super BeatBox Machine is a programming challenge built without an IDE — it was developed using Notepad++ and compiled from the command prompt. The project utilizes a complex set of technologies that require advanced understanding and skill, including: **Java Swing Library, GridLayout, GridBagLayout, JFrame, JPanel, PlainDocument, File, JFileChooser, Java Sound API, Sequencer, MidiEvent, Disk Object Serialization, Network Object Serialization, Socket, ServerSocket, Multithreading, Inner Class, and Key Mapping**.
+
+The **Super BeatBox Machine** is based on the **BeatBox** project from the book **Head First Java**, by Kathy Sierra and Bert Bates. The project described in the book (BeatBox) was systematically modified with additional features until it became the **Super BeatBox Machine**.
+
+For more details, visit the official project page: <br>
+<https://en.togtec.com.br/projects/super-beatbox-machine/summary.php>
+
+### Technologies
+  * Java SE (17)
+
+### IDE
+  * Notepad++
+
+### Screenshot
+<center>
+<img src="doc/img/img-009-super-beatbox-machine-bass-drum.jpg" alt="Super BeatBox Machine">
+
+Ver galeria completa de imagens em: <br>
+<https://en.togtec.com.br/projects/super-beatbox-machine/images.php>
+
+### Features
+  * User creates a beat pattern.
+  * User listens to the newly created pattern.
+  * User sends the newly created pattern via chat to all connected users.
+  * User receives a pattern via chat.
+  * User listens to the received pattern.
+  * User saves the received pattern to disk.
+
+### Running the Code Locally
+Visit the project's download and installation page at: <br>
+<https://en.togtec.com.br/projects/super-beatbox-machine/download.php>
